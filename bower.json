@@ -1,0 +1,25 @@
+{
+  "name": "font-awesome-stacked-icons",
+  "description": "The Font Awesome Stacked Icons as Bower Dependency",
+  "main": [
+    "dist/fontawesome-stacked-icons.min.css"
+  ],
+  "authors": [
+    "xremix <toni-hoffmann@xremix.de> (http://xremix.de)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome"
+  ],
+  "homepage": "https://github.com/xremix/Font-Awesome-Stacked-Icons",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
