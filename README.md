@@ -1,17 +1,17 @@
-#Font Awesome Stacked Icon
+# Font Awesome Stacked Icon
 The Font Awesome Stacked Icons as Bower Dependency
 
-##Why?
+## Why?
 This is a little tiny helper that helps you to use the Font Awesome [stacked icons](http://blog.fontawesome.io/2014/09/25/custom-file-types-with-stacked-icons/) and to include them in your own project by using NPM, Bower or just download and including them.
  
-##What's included?
+## What's included?
 
 - CSS Mnified
 - CSS
 - LESS
 - SASS
 
-##What's inisde?
+## What's inisde?
 ```CSS
 .fa-stack-1x { 
 	top: .25em; 
@@ -27,7 +27,7 @@ This is a little tiny helper that helps you to use the Font Awesome [stacked ico
 }
 ```
 
-##How do I use it?
+## How do I use it?
 Included it in your project and use the following HTML as described [here](http://blog.fontawesome.io/2014/09/25/custom-file-types-with-stacked-icons/) and [here](http://blog.fontawesome.io/2014/05/19/stacking-text-and-icons/)
 ```HTML
 <i class="fa fa-file-audio-o"></i>
